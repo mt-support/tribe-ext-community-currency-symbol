@@ -39,7 +39,7 @@ We're always interested in your feedback and our [premium forums](https://theeve
 
 == Changelog ==
 
-= 1.1.0 2020-12-28 =
+= [1.1.0] 2020-12-28 =
 
 * Fix – Extension now properly loads the text domain.
 * Tweak - Text domain has been adjusted to match the plugin name.
@@ -47,10 +47,10 @@ We're always interested in your feedback and our [premium forums](https://theeve
 * Tweak - Added .pot file to aid with translations.
 * Tweak - Added readme file.
 
-= 1.0.1 2018-01-08 =
+= [1.0.1] 2018-01-08 =
 
 * Fix – Extension now conditionally requires the Settings_Helper.php file to prevent the `Cannot declare class Tribe__Extension__Settings_Helper because the name is already in use` error.
 
-= 1.0.0 2017-06-27 =
+= [1.0.0] 2017-06-27 =
 
 * Initial release
